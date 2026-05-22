@@ -1,0 +1,8 @@
+venv/
+data/
+DI-Connect-Aggregator/
+DI-Connect-Fitness/
+DI-Connect-Metrics/
+DI-Connect-Wellness/
+__pycache__/
+.ipynb_checkpoints/
